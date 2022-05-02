@@ -1,2 +1,1 @@
-*.cpp linguist-detectable=false
-*.mak linguist-detectable=false
+linguist-language=dart
